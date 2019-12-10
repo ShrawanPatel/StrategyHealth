@@ -4,7 +4,7 @@ $italic: 'Vollkorn', serif;
 	background-repeat: no-repeat;
 	background-position: top;
 	background-position: center center;
-	background-color: #373a6d;
+	background-color: #0C5F27;
 	&.overlay {
 		position: relative;
 		&:before {
@@ -1628,7 +1628,7 @@ figure {
 	padding:20px;	
 
 	blockquote {
-		background: #373a6d;
+		background: #0C5F27;
 		padding: 30px;
 		font-style: italic;
 		font-weight: 400;
@@ -1655,8 +1655,8 @@ figure {
 			pointer-events: none;
 		}
 		&:before {
-			border-color: rgba(#373a6d, 0);
-			border-top-color: #373a6d;
+			border-color: rgba(#0C5F27, 0);
+			border-top-color: #0C5F27;
 			border-width: 15px;
 			margin-left: -15px;
 		}	
