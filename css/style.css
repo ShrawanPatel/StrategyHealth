@@ -1767,7 +1767,7 @@ figure figcaption {
   color: #000; }
 
 .service {
-  padding: 30px; }
+  padding-top: 30px; }
   .service .icon span {
     color: #0C5F27; }
   .service h3 {
